@@ -411,7 +411,6 @@ PRODUCT_PACKAGES += \
     libsns_low_lat_stream_skel \
     libasphere \
     libshoebox \
-    libspatialaudio \
     com.qti.sensor.ofilm_hi259 \
     com.qti.sensor.ofilm_imx682 \
     com.qti.sensor.ofilm_ov02b1b \
